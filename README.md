@@ -1,4 +1,4 @@
-# ECE2035 - MIPS Pipeline 
+# ECE2035 - RPG Game
 This is a project that I created during my Fall 2018 semester at the Georgia Institute of Technology for a class that I am currently an undergraduate teaching assistant for, entitled
 Programming for Software and Hardware Systems. This project utilizes a hash table backing strucutre in C++ to store game items
 such as character sprites and items on the mBed platform.
